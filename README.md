@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+# EACH DIRECTORY HAVE IT'S OWN README.md THAT GIVES AN INSIGHT ABOUT THE PROJECT. 
